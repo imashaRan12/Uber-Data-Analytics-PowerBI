@@ -113,13 +113,13 @@ The solution includes data modeling, DAX measures, and interactive visualization
 
 ## 📷 Dashboard Preview
 
-![Home Page](./screenshots/dashboard1.png)
-![Overview Page](./screenshots/dashboard2.png)
-![Overview Page 1](./screenshots/dashboard3.png)
-![Vehicle Page](./screenshots/dashboard4.png)
-![Revenue Page](./screenshots/dashboard5.png)
-![Rider Page](./screenshots/dashboard6.png)
-![Location Page](./screenshots/dashboard7.png)
+![Home Page](./Screenshots/dashboard1.png)
+![Overview Page](./Screenshots/dashboard2.png)
+![Overview Page 1](./Screenshots/dashboard3.png)
+![Vehicle Page](./Screenshots/dashboard4.png)
+![Revenue Page](./Screenshots/dashboard5.png)
+![Rider Page](./Screenshots/dashboard6.png)
+![Location Page](./Screenshots/dashboard7.png)
 
 ---
 
